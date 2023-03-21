@@ -1,0 +1,10 @@
+.navbar-nav a {
+  font-size: 18px;
+}
+.order {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 10vw;
+  row-gap: 10vh;
+}
